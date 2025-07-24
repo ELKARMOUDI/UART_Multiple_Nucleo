@@ -2,7 +2,7 @@
 
 This project demonstrates simultaneous UART communication on two ports (USART1 and USART2) of an STM32 Nucleo board using interrupt mode.
 
-<img src="https://github.com/user-attachments/assets/4985b169-01a7-47a6-b5af-68fc40df826c" width="650" alt="8B94FCA5-47CD-4E08-BA3C-ED97D4E53FDB">
+<img src="https://github.com/user-attachments/assets/4985b169-01a7-47a6-b5af-68fc40df826c" width="600" alt="8B94FCA5-47CD-4E08-BA3C-ED97D4E53FDB">
 
 
 ## Features
